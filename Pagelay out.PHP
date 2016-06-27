@@ -71,7 +71,7 @@ body {
 
 <body>
 <div id="container">
-  <div id="Header"></div>
+  <div id="Header"><img src="images.jpg" width="436" height="102" alt=""/></div>
   <div id="Navbar"></div>
   <div id="main">Content for  id "main" Goes Here</div>
   <div id="Footer">Content for  id "Footer" Goes Here</div>
